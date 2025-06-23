@@ -1,6 +1,6 @@
 # 🚀 Yo, I'm Dev Baliyan! 💻
 
-![Header Banner](https://via.placeholder.com/1200x300.png?text=Dev+Baliyan+-+Code+Wizard+%26+Tech+Trailblazer)
+![Header Banner](./your-header-image-name.png)
 
 ---
 
