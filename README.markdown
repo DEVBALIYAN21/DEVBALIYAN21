@@ -1,6 +1,6 @@
 
 
-![Header Banner](./Flux_Dev_Create_a_vibrant_eyecatching_animated_banner_featurin_1.jpg)
+![Header Banner](./Flux_Dev_Create_a_vibrant_eyecatching_animated_banner_featurin_1 (1).jpg)
 
 ---
 
