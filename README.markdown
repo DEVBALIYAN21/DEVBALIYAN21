@@ -1,6 +1,6 @@
 # 🚀 Yo, I'm Dev Baliyan! 💻
 
-![Header Banner](./your-header-image-name.png)
+![Header Banner](./github-header-image.png)
 
 ---
 
