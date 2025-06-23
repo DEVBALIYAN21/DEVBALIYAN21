@@ -1,6 +1,6 @@
 
 
-![Header Banner](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
+![Header Banner](./Flux_Dev_Create_a_vibrant_eyecatching_animated_banner_featurin_1.jpg)
 
 ---
 
