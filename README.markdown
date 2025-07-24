@@ -91,7 +91,7 @@ Proof I’m always leveling up:
 ## 📊 GitHub Stats
 Peep my coding grind:
 
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVBALIYAN21&show_icons=true&theme=dracula&cache_seconds=0)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVBALIYAN21&show_icons=true&theme=dracula&cache_seconds=5)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVBALIYAN21&layout=compact&theme=dracula)
 
 ---
